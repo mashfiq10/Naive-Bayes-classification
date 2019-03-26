@@ -1,9 +1,7 @@
 #!/usr/bin/python
 
 ########################################################
-# CS5783: Machine Learning #
-# Assignment 2#
-# Problem 2: Naive Bayes Gaussian #
+# Naive Bayes Gaussian #
 # Sk. Mashfiqur Rahman (CWID: A20102717) #
 # collect data from: http://yann.lecun.com/exdb/mnist/#
 #######################################################
