@@ -1,9 +1,7 @@
 #!/usr/bin/python
 
 #######################################################
-# CS5783: Machine Learning #
-# Assignment 2#
-# Problem 3: Naive Bayes #
+#  Naive Bayes #
 # Sk. Mashfiqur Rahman #
 # collect data from: http://yann.lecun.com/exdb/mnist/#
 #######################################################
